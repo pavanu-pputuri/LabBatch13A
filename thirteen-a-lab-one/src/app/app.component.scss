@@ -1,0 +1,34 @@
+.list{
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: rgb(238, 227, 227);
+    width: 15%;
+    padding: 10px;
+}
+.list :hover{
+    background-color: #cacac2;
+
+}
+.main{
+    margin-top: 20px;
+    height: 35px;
+    width: 100%;
+    background-color: blue;
+}
+.left{
+    float: left;
+    padding-top: 10px;
+    padding-left: 70px;
+}
+
+.right{
+    float: right;
+    padding-right: 400px;
+    padding-top: 10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    
+}
